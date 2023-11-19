@@ -30,7 +30,7 @@ pkg-resources==0.0.0
 portalocker==2.0.0
 prompt-toolkit==3.0.8
 ptyprocess==0.6.0
-Pygments==2.7.2
+Pygments==2.15.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 -e git+https://github.com/ParthaEth/pytorch3d.git
